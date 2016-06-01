@@ -1,2 +1,2 @@
 # hello-world3
-learn
+Hi, I'm new to Git!
